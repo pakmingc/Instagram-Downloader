@@ -81,6 +81,10 @@ For educational purposes only. Respect Instagram's terms of service and copyrigh
 
 ---
 
+## 📫 Contact
+
+📧 pakmingc2@gmail.com
+
 ## 📄 License
 
 MIT License
